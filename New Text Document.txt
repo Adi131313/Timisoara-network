@@ -1,0 +1,3 @@
+am selectat firmele cu high coruption risk  si de aici trebuie sa fac eu mai multe statistici
+de acolo de la statistics si pun filtre si dau run
+fac mai multe workspace-uri pentru filtrele aplicate pe graf
